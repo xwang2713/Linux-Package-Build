@@ -1,0 +1,2 @@
+project( utils )
+Install (PROGRAMS ${CMAKE_CURRENT_SOURCE_DIR}/help.sh DESTINATION ${UTILS_DIR})
